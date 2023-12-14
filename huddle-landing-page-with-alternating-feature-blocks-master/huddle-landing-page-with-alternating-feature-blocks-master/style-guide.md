@@ -11,13 +11,13 @@ The designs were created to the following widths:
 
 ### Primary
 
-- Pink: hsl(322, 100%, 66%)
+- Pink: hsl(322, 100%, 66%) #FF52BF
 
 ### Neutral
 
-- Very Pale Cyan: hsl(193, 100%, 96%)
-- Very Dark Cyan: hsl(192, 100%, 9%)
-- Grayish Blue: hsl(208, 11%, 55%)
+- Very Pale Cyan: hsl(193, 100%, 96%) #EBFBFF
+- Very Dark Cyan: hsl(192, 100%, 9%) #00252E
+- Grayish Blue: hsl(208, 11%, 55%) #808D99
 
 ## Typography
 
