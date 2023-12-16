@@ -12,24 +12,25 @@ const Container = () => {
       right: true,
     },
     {
-      id: 1,
+      id: 2,
       heading: "Flowing Conversations",
       desc: "You wouldn't paginate a conversation in real life, so why do it online? Our threadshave just-in-time loading for a more natural flow.",
       img: flowing,
       right: false,
     },
     {
-      id: 1,
+      id: 3,
       heading: "Your Users",
       desc: " It takes no time at all to integrate Huddle with your app's authentication solution.This means, once signed in to your app, your users can start chatting immediately.",
       img: users,
       right: true,
     },
   ];
+
   return (
     <div>
       {card?.map((carddetails) => (
-        <div key={card?.id}>
+        <div key={card?.id} className="">
           <CardContectComponent
             headline={carddetails?.heading}
             info={carddetails?.desc}
