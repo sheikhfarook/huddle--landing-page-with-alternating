@@ -15,10 +15,10 @@ const CardContectComponent = ({ headline, info, growimage, RightPic }) => {
             </div>
 
             <div className="m-auto space-y-3 text-center md:mt-10 lg:my-auto md:text-left  ">
-              <h1 className="font-poppins text-3xl max-sm:text-2xl mt-8  md:m-0">
+              <h1 className="font-poppins text-3xl max-sm:text-2xl mt-8 text-[#191b1c]  md:m-0">
                 {headline}
               </h1>
-              <p className="font-opensans w-11/12">{info}</p>
+              <p className="font-opensans  text-[#717476] w-11/12">{info}</p>
             </div>
           </div>
         </div>

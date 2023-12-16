@@ -20,7 +20,7 @@ const ContactDetails = () => {
           </div>
           <div className="flex flex-row gap-5 pt-5 lg:m-0 lg:justify-start md:m-auto md:justify-center">
             <img className="h-5 mt-1" src={location} alt="" />
-            <p className="w-3/5 font-opensans max-sm:w-[260px] ">
+            <p className="w-3/5  font-opensans max-sm:w-[260px] ">
               {" "}
               Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
               eiusmod tempor incididunt ut labore et dolore magna aliqua

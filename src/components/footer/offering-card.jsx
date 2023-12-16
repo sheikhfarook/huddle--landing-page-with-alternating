@@ -4,7 +4,7 @@ const OfferingCard = () => {
       className="m-auto w-1/2 shadow-2xl rounded-2xl text-center bg-white relative top-[6rem]
     max-sm:w-[20rem]">
       <div className="py-12 px-3.5 space-y-9 max-sm:space-y-6">
-        <div className="text-3xl font-poppins max-sm:text-[17px] max-sm:w-full">
+        <div className="text-3xl text-[#191b1c]  font-poppins max-sm:text-[17px] max-sm:w-full">
           Ready To Build Your Community?
         </div>
         <div
