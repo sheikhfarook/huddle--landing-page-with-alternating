@@ -63,8 +63,8 @@ const ContactDetails = () => {
           </div>
         </div>
       </div>
-      <div className="text-right mr-32 max-sm:m-auto max-sm:mr-6 ">
-        <p className="bottom-16 lg:mr-0 md:mr-20  max-sm:bottom-14  relative">
+      <div className="text-right mr-32 max-sm:m-auto max-sm:mr-7 ">
+        <p className="bottom-16 lg:mr-0 md:mr-auto max-sm:bottom-14  relative">
           &copy; Copyright 2018 Huddle. All rights reserved.
         </p>
       </div>
